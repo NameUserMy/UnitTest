@@ -1,0 +1,14 @@
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\bin\Debug\net8.0\UnitTestDate.exe
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\bin\Debug\net8.0\UnitTestDate.deps.json
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\bin\Debug\net8.0\UnitTestDate.runtimeconfig.json
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\bin\Debug\net8.0\UnitTestDate.dll
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\bin\Debug\net8.0\UnitTestDate.pdb
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.GeneratedMSBuildEditorConfig.editorconfig
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.AssemblyInfoInputs.cache
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.AssemblyInfo.cs
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.csproj.CoreCompileInputs.cache
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.dll
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\refint\UnitTestDate.dll
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.pdb
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\UnitTestDate.genruntimeconfig.cache
+E:\KASHAG\programming\UnitTestDate\UnitTestDate\obj\Debug\net8.0\ref\UnitTestDate.dll
